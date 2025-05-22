@@ -84,7 +84,7 @@ Welcome to **Problem Solving Guile** – your ultimate guide to mastering proble
 ## ⭐  Star দিয়ে অনুপ্রানিত করুন!
 
 ```
-git clone https://github.com/roniahamed/Problem-Solving-Guide
+git clone https://github.com/roniahamed/DSA-Refresh-and-Problem-Solving
 ```
 
 Stay sharp, stay solving 🚀
