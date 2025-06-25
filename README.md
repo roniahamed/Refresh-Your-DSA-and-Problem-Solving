@@ -12,6 +12,8 @@ Welcome to **Problem Solving Guile** – your ultimate guide to mastering proble
 
 - ✅ Arrays
 - ✅ Strings
+- ✅ Two Pointer
+- ✅ Binary Search
 - ✅ Linked List
 - ✅ Stack & Queue
 - ✅ Tree & Binary Tree
@@ -84,7 +86,7 @@ Welcome to **Problem Solving Guile** – your ultimate guide to mastering proble
 ## ⭐  Star দিয়ে অনুপ্রানিত করুন!
 
 ```
-git clone https://github.com/roniahamed/DSA-Refresh-and-Problem-Solving
+git clone https://github.com/roniahamed/Refresh-Your-DSA-and-Problem-Solving.git
 ```
 
 Stay sharp, stay solving 🚀
