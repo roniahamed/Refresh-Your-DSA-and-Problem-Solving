@@ -13,7 +13,7 @@ Welcome to **Problem Solving Guile** – your ultimate guide to mastering proble
 - ✅ Arrays
 - ✅ Strings
 - ✅ Two Pointer
-- ✅ Binary Search
+- [✅ Binary search](https://github.com/roniahamed/Refresh-Your-DSA-and-Problem-Solving/tree/master/Binary%20Search)
 - ✅ Linked List
 - ✅ Stack & Queue
 - ✅ Tree & Binary Tree
