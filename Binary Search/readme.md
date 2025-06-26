@@ -417,6 +417,7 @@ def safe_binary_search(arr, target):
 | 8 | Koko Eating Bananas | 🟡 Medium | [875](https://leetcode.com/problems/koko-eating-bananas/) | ⬜ |
 | 9 | Time Based Key-Value Store | 🟡 Medium | [981](https://leetcode.com/problems/time-based-key-value-store/) | ⬜ |
 | 10 | Median of Two Sorted Arrays | 🔴 Hard | [4](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ⬜ |
+| 11 | Minimum Speed to Arrive on Time | 🟡 Medium | [1870](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | ⬜ |
 
 ### 🎯 Learning Path:
 1. **Week 1:** Easy problems (1-3)
