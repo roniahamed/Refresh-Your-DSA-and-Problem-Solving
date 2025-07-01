@@ -1,112 +1,184 @@
-# 🚀 DSA Revision Journey - Step 5 
+# Step 5: Refresh DSA & Problem Solving - Revision | LeetCode Problem SolvingAdd commentMore actions
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-196%2B%20Days%20Streak-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-45-brightgreen?style=for-the-badge)](https://github.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-196%2B%20Days%20Streak-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/roniahamed/)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-45-brightgreen?style=for-the-badge)](https://github.com/roniahamed/Refresh-Your-DSA-and-Problem-Solving/blob/9353ff330d7319a4f803a15c3d16a7c94c24a5d8/Step%205%20-%20Refresh%20DSA%20-%20Revision/readme.md)
+[![Revision Complete](https://img.shields.io/badge/Revision-Complete-success?style=for-the-badge)](https://github.com/roniahamed/Refresh-Your-DSA-and-Problem-Solving/blob/9353ff330d7319a4f803a15c3d16a7c94c24a5d8/Step%205%20-%20Refresh%20DSA%20-%20Revision/readme.md)
 
-## 📖 About This Repository
 
-আসসালামু আলাইকুম! এই রিপোজিটরিতে আমার **"Refresh DSA & Problem Solving"** জার্নির **Step 5: রিভিশন পর্ব** এর সম্পূর্ণ ডকুমেন্টেশন রয়েছে। 
+## 📖 আসসালামু আলাইকুম!
 
-### 🎯 Why Revision Matters?
+আপনি অনেক আগ্রহ নিয়ে নতুন একটা টপিক শিখলেন, বেশ কয়েকটি প্রবলেমও সমাধান করলেন। কিন্তু মাসখানেক পর যখন আবার সেই টপিকে ফিরে এলেন, দেখলেন প্রায় সবই ভুলে গেছেন! অনেকের হয়তো বিষয়টা পরিচিত লাগছে, তাই না?
 
-> *"শুধু নতুন জিনিস শিখে এগিয়ে যাওয়াই যথেষ্ট নয়। জ্ঞানকে নিজের মধ্যে ধরে রাখতে না পারলে সেই শেখার কোনো মানেই থাকে না।"*
+সত্যি বলতে, শেখার এই পদ্ধতিতে খুব ছোট একটা সমস্যা আছে। শুধু নতুন জিনিস শিখে এগিয়ে যাওয়াই যথেষ্ট নয়। জ্ঞানকে নিজের মধ্যে ধরে রাখতে না পারলে সেই শেখার কোনো মানেই থাকে না। আপনাকে শেখার স্টাইল বদলাতে হবে, যাতে জ্ঞানটা শুধু সাময়িক না হয়ে দীর্ঘস্থায়ী হয়।
 
-আমি বুঝতে পেরেছি যে শুধু নতুন টপিক শেখা যথেষ্ট নয়। পুরানো কনসেপ্টগুলো রিভিশন করা অত্যন্ত গুরুত্বপূর্ণ। এই রিভিশন পর্বে আমি সেই প্রবলেমগুলো আবার সমাধান করেছি যেগুলো আগে কঠিন লেগেছিল।
+**এর সবচেয়ে ভালো উপায় হলো, শেখার সময় কঠিন বিষয়গুলো থেকে মূল পয়েন্ট নোট করে রাখা এবং নিয়মিত পুরনো টপিকগুলো রিভিশন দেওয়া।** আমি মূলত এভাবেই শিখি আর তাই আমার শেখা বিষয়গুলো বেশিদিন মনে থাকে। আজকে আপনাদের সাথে আমার এই শেখার পদ্ধতির একটি বাস্তব অভিজ্ঞতা শেয়ার করছি।
 
-## 📊 Revision Statistics
+---
 
-- **Total Problems Revised:** 45
-- **Easy:** 15 problems ⭐
-- **Medium:** 22 problems ⭐⭐
-- **Hard:** 8 problems ⭐⭐⭐
-- **Duration:** 15 Days
-- **Current Streak:** 196+ Days 🔥
+## 🎯 আমার রিভিশন জার্নি
 
-### 🎯 Focus Topics
-- **Array Manipulation**
-- **Stack Operations**
-- **Two Pointers Technique**
-- **Sliding Window Algorithm**
+আলহামদুলিল্লাহ, LeetCode-এ আমার টানা **১৯৬+ দিনের** কোডিং স্ট্রিক চলছে! এই দীর্ঘ পথচলায় আপনাদের সবার সাপোর্ট আর ভালোবাসা আমাকে সবসময় অনুপ্রাণিত করেছে। এই রিপোজিটরিতে আমি আমার **"Refresh DSA & Problem Solving"** জার্নির **Step 5: রিভিশন পর্ব** শেয়ার করছি।
 
-## 📅 Daily Problem Solutions
+আগের ধাপগুলোতে নতুন নতুন অনেক টপিক (যেমন Two Pointers, Sliding Window, Stack) ইত্যাদি নিয়ে কথা বলেছিলাম। তবে কিছুদিন আগে আমার মনে হলো, শুধু শিখলেই হবে না, যেগুলো সমাধান করতে একটু সমস্যা হয় বা কনসেপ্টগুলোকে কঠিন লাগে, সেগুলো আবার ঝালিয়ে নেওয়াটা খুব জরুরি। 
 
-| Day | Topics | Problems | Difficulty | Status |
-|-----|--------|----------|------------|--------|
-| **Day 1** | Array, Stack, Two Pointer | Two Sum, Valid Parentheses, Valid Palindrome | Easy | ✅ |
-| **Day 2** | Stack, Array, Sliding Window | Score of Parentheses, Maximum Subarray, Best Time to Buy and Sell Stock | Mixed | ✅ |
-| **Day 3** | Stack, Two Pointer, Sliding Window | Min Stack, Container With Most Water, Longest Substring Without Repeating | Medium | ✅ |
-| **Day 4** | Stack, Array, Two Pointer | Next Greater Element I, Product of Array Except Self, Reverse String | Mixed | ✅ |
-| **Day 5** | Stack, Two Pointer, Sliding Window | Daily Temperatures, Two Sum II, Permutation in String | Medium | ✅ |
-| **Day 6** | Stack, Array, Two Pointer | Backspace String Compare, Longest Consecutive Sequence, Move Zeroes | Mixed | ✅ |
-| **Day 7** | Stack, Array, Sliding Window | Evaluate RPN, Group Anagrams, Maximum Average Subarray I | Mixed | ✅ |
-| **Day 8** | Stack, Two Pointer, Array | Make the String Great, 3Sum, Valid Anagram | Mixed | ✅ |
-| **Day 9** | Stack, Two Pointer, Sliding Window | Remove K Digits, Remove Nth Node, Find All Anagrams | Medium | ✅ |
-| **Day 10** | Stack, Array, Two Pointer | **Largest Rectangle in Histogram**, Top K Frequent, Middle of Linked List | Hard | ✅ |
-| **Day 11** | Stack, Two Pointer, Sliding Window | Asteroid Collision, **Trapping Rain Water**, Minimum Size Subarray Sum | Hard | ✅ |
-| **Day 12** | Stack, Two Pointer, Sliding Window | Next Greater Element II, Valid Palindrome II, Max Vowels | Mixed | ✅ |
-| **Day 13** | Stack, Two Pointer, Sliding Window | Remove Adjacent Duplicates, Linked List Cycle II, Longest Repeating Char | Mixed | ✅ |
-| **Day 14** | Stack, Sliding Window | **Maximal Rectangle**, Stack using Queues, **Sliding Window Maximum** | Hard | ✅ |
-| **Day 15** | Array, Sliding Window | Encode and Decode Strings*, **Minimum Window Substring**, Contains Duplicate | Hard | ✅ |
+> **কারণ, ভিত্তি শক্ত না হলে উপরে ওঠা কঠিন।**
 
-*Premium Problem
+## 📊 রিভিশন পরিসংখ্যান
 
-## 🏆 Key Achievements
+এই ধাপে আমি বিভিন্ন টপিকের বাছাই করা **মোট ৪৫টি প্রবলেম** আবার সমাধান করেছি:
 
-### Hard Problems Conquered 💪
-- **Largest Rectangle in Histogram** - Stack optimization
-- **Trapping Rain Water** - Two pointers mastery
-- **Sliding Window Maximum** - Deque implementation
-- **Minimum Window Substring** - Advanced sliding window
-- **Maximal Rectangle** - 2D histogram approach
+- 🟢 **Easy:** ১৫টি
+- 🟡 **Medium:** ২২টি  
+- 🔴 **Hard:** ৮টি
+- ⏰ **Duration:** ১৫ দিন
+- 🔥 **Current Streak:** ১৯৬+ দিন
 
-### 📈 Growth Insights
-- কঠিন প্রবলেমগুলোর লজিক আরও ভালোভাবে বুঝতে পারছি
-- নতুন অপ্টিমাইজেশন টেকনিক আবিষ্কার করেছি
-- আত্মবিশ্বাস উল্লেখযোগ্যভাবে বৃদ্ধি পেয়েছে
+### 🎯 ফোকাস টপিকস
+- **Array Manipulation** 
+- **Stack** 
+- **Two Pointers**
+- **Sliding Window** 
 
-## 🛠️ How to Use This Repository
+---
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/dsa-revision-journey.git
-   cd dsa-revision-journey
-   ```
+## 📝 আমার ১৫ দিনের রিভিশন প্ল্যান
 
-2. **Navigate through daily solutions**
-   - Each day's folder contains solutions with detailed explanations
-   - Comments are in Bengali for better understanding
+এখানে আমার ১৫ দিনের রিভিশন প্ল্যানটি দেওয়া হলো। প্রতিটি প্রবলেমের পাশে LeetCode লিংক যুক্ত করা আছে।
 
-3. **Practice yourself**
-   - Try solving problems before checking solutions
-   - Focus on understanding the approach, not memorizing
+<details>
+<summary><strong>📅 Click to view complete 15-day plan</strong></summary>
 
-## 💡 Learning Tips
+| দিন | টপিক(সমূহ) | সমস্যা (Problem Name) | Difficulty | LeetCode Link |
+| :---: | :--- | :--- | :---: | :---: |
+| **Day 1** | Array, Stack, Two Pointer | 1. Two Sum | 🟢 Easy | [🔗](https://leetcode.com/problems/two-sum/) |
+| | | 2. Valid Parentheses | 🟢 Easy | [🔗](https://leetcode.com/problems/valid-parentheses/) |
+| | | 3. Valid Palindrome | 🟢 Easy | [🔗](https://leetcode.com/problems/valid-palindrome/) |
+| **Day 2** | Stack, Array, Sliding Window | 1. Score of Parentheses | 🟡 Medium | [🔗](https://leetcode.com/problems/score-of-parentheses/) |
+| | | 2. Maximum Subarray | 🟡 Medium | [🔗](https://leetcode.com/problems/maximum-subarray/) |
+| | | 3. Best Time to Buy and Sell Stock | 🟢 Easy | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| **Day 3** | Stack, Two Pointer, Sliding Window | 1. Min Stack | 🟡 Medium | [🔗](https://leetcode.com/problems/min-stack/) |
+| | | 2. Container With Most Water | 🟡 Medium | [🔗](https://leetcode.com/problems/container-with-most-water/) |
+| | | 3. Longest Substring Without Repeating Characters | 🟡 Medium | [🔗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| **Day 4** | Stack, Array, Two Pointer | 1. Next Greater Element I | 🟢 Easy | [🔗](https://leetcode.com/problems/next-greater-element-i/) |
+| | | 2. Product of Array Except Self | 🟡 Medium | [🔗](https://leetcode.com/problems/product-of-array-except-self/) |
+| | | 3. Reverse String | 🟢 Easy | [🔗](https://leetcode.com/problems/reverse-string/) |
+| **Day 5** | Stack, Two Pointer, Sliding Window | 1. Daily Temperatures | 🟡 Medium | [🔗](https://leetcode.com/problems/daily-temperatures/) |
+| | | 2. Two Sum II - Input Array Is Sorted | 🟡 Medium | [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| | | 3. Permutation in String | 🟡 Medium | [🔗](https://leetcode.com/problems/permutation-in-string/) |
+| **Day 6** | Stack, Array, Two Pointer | 1. Backspace String Compare | 🟢 Easy | [🔗](https://leetcode.com/problems/backspace-string-compare/) |
+| | | 2. Longest Consecutive Sequence | 🟡 Medium | [🔗](https://leetcode.com/problems/longest-consecutive-sequence/) |
+| | | 3. Move Zeroes | 🟢 Easy | [🔗](https://leetcode.com/problems/move-zeroes/) |
+| **Day 7** | Stack, Array, Sliding Window | 1. Evaluate Reverse Polish Notation | 🟡 Medium | [🔗](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
+| | | 2. Group Anagrams | 🟡 Medium | [🔗](https://leetcode.com/problems/group-anagrams/) |
+| | | 3. Maximum Average Subarray I | 🟢 Easy | [🔗](https://leetcode.com/problems/maximum-average-subarray-i/) |
+| **Day 8** | Stack, Two Pointer, Array | 1. Make the String Great | 🟢 Easy | [🔗](https://leetcode.com/problems/make-the-string-great/) |
+| | | 2. 3Sum | 🟡 Medium | [🔗](https://leetcode.com/problems/3sum/) |
+| | | 3. Valid Anagram | 🟢 Easy | [🔗](https://leetcode.com/problems/valid-anagram/) |
+| **Day 9** | Stack, Two Pointer, Sliding Window | 1. Remove K Digits | 🟡 Medium | [🔗](https://leetcode.com/problems/remove-k-digits/) |
+| | | 2. Remove Nth Node From End of List | 🟡 Medium | [🔗](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
+| | | 3. Find All Anagrams in a String | 🟡 Medium | [🔗](https://leetcode.com/problems/find-all-anagrams-in-a-string/) |
+| **Day 10** | Stack, Array, Two Pointer | 1. **Largest Rectangle in Histogram** | 🔴 Hard | [🔗](https://leetcode.com/problems/largest-rectangle-in-histogram/) |
+| | | 2. Top K Frequent Elements | 🟡 Medium | [🔗](https://leetcode.com/problems/top-k-frequent-elements/) |
+| | | 3. Middle of the Linked List | 🟢 Easy | [🔗](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| **Day 11** | Stack, Two Pointer, Sliding Window | 1. Asteroid Collision | 🟡 Medium | [🔗](https://leetcode.com/problems/asteroid-collision/) |
+| | | 2. **Trapping Rain Water** | 🔴 Hard | [🔗](https://leetcode.com/problems/trapping-rain-water/) |
+| | | 3. Minimum Size Subarray Sum | 🟡 Medium | [🔗](https://leetcode.com/problems/minimum-size-subarray-sum/) |
+| **Day 12** | Stack, Two Pointer, Sliding Window | 1. Next Greater Element II | 🟡 Medium | [🔗](https://leetcode.com/problems/next-greater-element-ii/) |
+| | | 2. Valid Palindrome II | 🟢 Easy | [🔗](https://leetcode.com/problems/valid-palindrome-ii/) |
+| | | 3. Maximum Number of Vowels in a Substring of Given Length | 🟡 Medium | [🔗](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) |
+| **Day 13**| Stack, Two Pointer, Sliding Window | 1. Remove All Adjacent Duplicates In String | 🟢 Easy | [🔗](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |
+| | | 2. Linked List Cycle II | 🟡 Medium | [🔗](https://leetcode.com/problems/linked-list-cycle-ii/) |
+| | | 3. Longest Repeating Character Replacement | 🟡 Medium | [🔗](https://leetcode.com/problems/longest-repeating-character-replacement/) |
+| **Day 14**| Stack, Sliding Window | 1. **Maximal Rectangle** | 🔴 Hard | [🔗](https://leetcode.com/problems/maximal-rectangle/) |
+| | | 2. Implement Stack using Queues | 🟢 Easy | [🔗](https://leetcode.com/problems/implement-stack-using-queues/) |
+| | | 3. **Sliding Window Maximum** | 🔴 Hard | [🔗](https://leetcode.com/problems/sliding-window-maximum/) |
+| **Day 15**| Array, Sliding Window | 1. Encode and Decode Strings | 🔴 Hard | [🔗](https://leetcode.com/problems/encode-and-decode-strings/) 💎 |
+| | | 2. **Minimum Window Substring** | 🔴 Hard | [🔗](https://leetcode.com/problems/minimum-window-substring/) |
+| | | 3. Contains Duplicate | 🟢 Easy | [🔗](https://leetcode.com/problems/contains-duplicate/) |
 
-### 🎯 My Revision Strategy
-1. **Identify weak points** - Focus on previously difficult problems
-2. **Time-boxed practice** - Set specific time limits
-3. **Pattern recognition** - Group similar problem types
-4. **Regular intervals** - Don't let concepts fade away
+💎 *Premium Problem*
 
-### 📝 Note-Taking Method
-- Key points থেকে main concepts note করি
-- Difficult problems এর approach আলাদা করে লিখি
-- Pattern এবং template গুলো save করি
+</details>
 
-## 🌟 Motivation
 
-> *"মাঝে মাঝে পুরনো শেখা জিনিসগুলো রিভিশন দিতে ভুলবেন না। এটা আপনার আত্মবিশ্বাস বাড়াতে এবং শেখা বিষয়গুলো দীর্ঘস্থায়ী করতে ম্যাজিকের মতো কাজ করবে।"*
 
-## 🤝 Connect With Me
+এই রিভিশনের ফলে অনেক পুরনো কনসেপ্ট যেগুলো প্রায় ঝাপসা হয়ে গিয়েছিল, সেগুলো আবার নতুন করে মাথায় গেঁথে গেছে। বিশেষ করে উপরের হার্ড প্রবলেমগুলো আবার করতে গিয়ে সেগুলোর ভেতরের লজিকগুলো আরও ভালোভাবে ধরতে পেরেছি। 
 
-- **LeetCode:** [Your LeetCode Profile]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Email]
+> **মনে হচ্ছে যেন নিজের মাঝে আবার নতুন করে আত্মবিশ্বাস জন্ম নিলো!** 😅
 
-## 📊 Next Steps
+---
 
-- **Step 6:** Binary Search 
+## 🛠️ এই রিপোজিটরিটি কীভাবে ব্যবহার করবেন?
+
+### 📖 শেখার পদ্ধতি:
+1. **🎯 প্রথমে নিজে চেষ্টা করুন** - প্রতিটি প্রবলেম প্রথমে নিজে সমাধান করার চেষ্টা করুন
+2. **🤔 আটকে গেলে সাহায্য নিন** - কোথাও আটকে গেলে বা কনসেপ্ট বুঝতে সমস্যা হলে কমিউনিটির সাহায্য নিন
+3. **🧠 লজিক বুঝুন** - মূল লক্ষ্য হলো প্রতিটি প্রবলেমের পেছনের লজিকটা ভালোভাবে বোঝা
+4. **📝 নোট রাখুন** - কঠিন বিষয়গুলো থেকে মূল পয়েন্ট নোট করে রাখুন
+5. **🔄 রিভিশন করুন** - নিয়মিত পুরনো টপিকগুলো রিভিশন দিন
+
+### ⏰ প্ল্যান অনুসরণ:
+- আপনি এই ১৫ দিনের প্ল্যানটি অনুসরণ করে আপনার DSA রিভিশন শুরু করতে পারেন
+- প্রতিদিন ৩টি প্রবলেম সমাধানের লক্ষ্য রাখুন
+- একটানা না পারলে নিজের সুবিধামতো সময় নিন
+
+---
+
+## 💡 আমার শেখার কৌশল
+
+### 🎯 রিভিশন কৌশল:
+- **দুর্বল পয়েন্ট চিহ্নিত করি** - আগে যেগুলো কঠিন লেগেছিল সেগুলোতে ফোকাস করি
+- **সময় নির্ধারণ করি** - নির্দিষ্ট সময়সীমা নির্ধারণ করে অনুশীলন করি  
+- **প্যাটার্ন চিনি** - একই ধরনের প্রবলেমগুলো গ্রুপ করি
+- **নিয়মিত বিরতি** - কনসেপ্টগুলো যেন ভুলে না যাই সেজন্য নিয়মিত রিভিশন দিই
+
+### 📚 নোট নেওয়ার পদ্ধতি:
+- মূল কনসেপ্টগুলো আলাদা করে লিখি
+- কঠিন প্রবলেমের সমাধানের approach আলাদা রাখি  
+- প্যাটার্ন এবং template গুলো সংরক্ষণ করি
+
+---
+
+## 🌟 অনুপ্রেরণা
+
+> **"মাঝে মাঝে পুরনো শেখা জিনিসগুলো রিভিশন দিতে ভুলবেন না। এটা আপনার আত্মবিশ্বাস বাড়াতে এবং শেখা বিষয়গুলো দীর্ঘস্থায়ী করতে ম্যাজিকের মতো কাজ করবে।"**
+
+যারা নিয়মিত প্রবলেম সলভিং করছেন, তাদের প্রতি আমার অনুরোধ - **রিভিশনকে অবহেলা করবেন না।** এটি আপনার শেখার যাত্রাকে আরও শক্তিশালী করে তুলবে।
+
+আমার এই **১৯৬+ দিনের স্ট্রিক** আর এই **রিভিশন পর্ব** যদি আপনাদের একটুও অনুপ্রাণিত করে, সেটাই আমার সার্থকতা। 
+
+**পরবর্তী চ্যালেঞ্জের জন্য প্রস্তুত!** 💪
+
+---
+
+## 📈 পরবর্তী ধাপসমূহ
+
+- **Step 6:** Binary Search
+
+---
+
+## 🤝 যোগাযোগ
+
+আপনার যেকোনো প্রশ্ন বা মতামত থাকলে জানাতে পারেন:
+
+- **GitHub:** [My GitHub](https://github.com/roniahamed)
+- **LeetCode:** [ My LeetCode](https://leetcode.com/roniahamed/)
+- **LinkedIn:** [My LinkedIn Profile](https://leetcode.com/roniahamed/)
+- **Email:** mdroniahamed56@gmail.coms
+
+---
+
+## ⭐ সাপোর্ট করুন
+
+এই প্রচেষ্টাটি যদি আপনার ভালো লেগে থাকে এবং আপনাকে সাহায্য করে, তাহলে:
+
+1. **🌟 রিপোজিটরিটি স্টার করুন**
+2. **🔄 আপনার বন্ধুদের সাথে শেয়ার করুন**  
+3. **💬 ফিডব্যাক দিন**
+
+এটি আমাকে আরও এমন রিসোর্স তৈরি করতে অনুপ্রাণিত করবে!
+
+---
 
 ## 🏷️ Tags
 
@@ -114,10 +186,16 @@
 
 ---
 
-### 🌟 If this repository helped you, please give it a star! ⭐
+<div align="center">
+
+### 🌟 **যদি এই রিপোজিটরি আপনার কাজে লেগে থাকে, তাহলে একটি স্টার ⭐ দিতে ভুলবেন না!**
 
 **Remember:** Consistency beats perfection. Keep coding, keep learning! 💪
 
+**সবার জন্য শুভকামনা। দোয়া করবেন যেন এই যাত্রা অব্যাহত রাখতে পারি।**
+
 ---
 
-*Made with ❤️ by [Your Name] | আলহামদুলিল্লাহ for 196+ days of consistent learning*
+*আলহামদুলিল্লাহ for ১৯৬+ days of consistent learning | Made with ❤️*
+
+</div>
